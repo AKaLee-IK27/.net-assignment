@@ -1,0 +1,10 @@
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\BT1.Form1.resources
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\Practice1.csproj.GenerateResource.cache
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+D:\Ben\Workspace\.net assignment\Practice1\bin\Debug\Practice1.exe.config
+D:\Ben\Workspace\.net assignment\Practice1\bin\Debug\Practice1.exe
+D:\Ben\Workspace\.net assignment\Practice1\bin\Debug\Practice1.pdb
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\Practice1.exe
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\Practice1.pdb

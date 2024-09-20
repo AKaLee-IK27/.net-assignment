@@ -12,3 +12,4 @@ D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\net8.0\refint\Practice1.dll
 D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\net8.0\Practice1.pdb
 D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\net8.0\Practice1.genruntimeconfig.cache
 D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\net8.0\ref\Practice1.dll
+D:\Ben\Workspace\.net assignment\Practice1\obj\Debug\net8.0\Practice1.sourcelink.json

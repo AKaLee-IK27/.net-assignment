@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "Practice1.sln"
+    "dotnet.defaultSolution": "Practice1.sln",
+    "dotnet.preferCSharpExtension": true
 }

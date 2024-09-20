@@ -1,21 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace Practice1
+namespace BT1
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            Console.WriteLine("Enter the number of cows: ");
-            int cows = int.Parse(Console.ReadLine() ?? "0");
-            Console.WriteLine("Enter the number of sheeps: ");
-            int sheeps = int.Parse(Console.ReadLine() ?? "0");
-            Console.WriteLine("Enter the number of goats: ");
-            int goats = int.Parse(Console.ReadLine() ?? "0");
-
-            Farm farm = new(cows, sheeps, goats);
-            farm.MakeNoise();
-            farm.Info();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

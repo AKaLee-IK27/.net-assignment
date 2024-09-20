@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ben\\Workspace\\.net assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practice1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456B68C0-3559-452C-82A4-8EBF92DBECBF}|Practice1\\Practice1.csproj|d:\\ben\\workspace\\.net assignment\\practice1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice1",
+              "DocumentMoniker": "D:\\Ben\\Workspace\\.net assignment\\Practice1\\Practice1.csproj",
+              "RelativeDocumentMoniker": "Practice1\\Practice1.csproj",
+              "ToolTip": "D:\\Ben\\Workspace\\.net assignment\\Practice1\\Practice1.csproj",
+              "RelativeToolTip": "Practice1\\Practice1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T06:54:38.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
